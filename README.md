@@ -6,9 +6,14 @@ How to run:
 From your operating system terminal / cmd / powershell run ./ipsaroundme for full options list.
 
 -s switch to scan all CIDR  /24 IP addresses around your public IP address.
+\
+&nbsp;
 -r startIP endIP switch to scan IP range.
+\
+&nbsp;
 -c IP/CIDR switch to scan IP range defined by Classless Inter-Domain Routing.
-
+\
+&nbsp;
 
 Samle outputs:
 
