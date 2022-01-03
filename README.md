@@ -13,20 +13,34 @@ From your operating system terminal / cmd / powershell run ./ipsaroundme for ful
 Samle outputs:
 
 **./ipsaroudme -s**
+\
+&nbsp;
 
 Remote IP, Local IP, Distance (km), Hops
 ----------------------------------------
-
+\
+&nbsp;
 123.123.123.4,123.123.123.6,32.859,2
+\
+&nbsp;
 123.123.123.5,123.123.123.6,1648.859,4
-
+\
+&nbsp;
 Your public IP address is: 123.123.123.6
+\
+&nbsp;
 Your default gateway is: 192.168.1.1
-
+\
+&nbsp;
 Total alive IP addresses: 2
+\
+&nbsp;
 Total dead IP addresses: 254
-
+\
+&nbsp;
 Finished in: 00:06:44
+\
+&nbsp;
 Started on: 03/01/2022 14:52:55
 
 \
@@ -36,17 +50,29 @@ Started on: 03/01/2022 14:52:55
 
 
 **./ipsaroundme -r 123.123.123.123 123.123.124.0**
-
+\
+&nbsp;
 123.123.123.4,123.123.123.6,32.859,2
+\
+&nbsp;
 123.123.123.5,123.123.123.6,1648.859,4
-
+\
+&nbsp;
 Your public IP address is: 123.123.123.6
+\
+&nbsp;
 Your default gateway is: 192.168.1.1
-
+\
+&nbsp;
 Total alive IP addresses: 2
+\
+&nbsp;
 Total dead IP addresses: 254
-
+\
+&nbsp;
 Finished in: 00:06:44
+\
+&nbsp;
 Started on: 03/01/2022 14:52:55
 
 \
@@ -55,17 +81,29 @@ Started on: 03/01/2022 14:52:55
 &nbsp;
 
 **./ipsaroundme -c 123.123.123.123/30**
-
+\
+&nbsp;
 123.123.123.4,123.123.123.6,5.859,1
+\
+&nbsp;
 123.123.123.5,123.123.123.6,1648.859,4
-
+\
+&nbsp;
 Your public IP address is: 123.123.123.6
+\
+&nbsp;
 Your default gateway is: 192.168.1.1
-
+\
+&nbsp;
 Total alive IP addresses: 2
+\
+&nbsp;
 Total dead IP addresses: 2
-
+\
+&nbsp;
 Finished in: 00:06:44
+\
+&nbsp;
 Started on: 03/01/2022 14:52:55
 
 \
