@@ -4,7 +4,8 @@ Identifies public live IP addresses around you and shows the distance from you i
 How to run:
 
 From your operating system terminal / cmd / powershell run ./ipsaroundme for full options list.
-
+\
+&nbsp;
 -s switch to scan all CIDR  /24 IP addresses around your public IP address.
 \
 &nbsp;
