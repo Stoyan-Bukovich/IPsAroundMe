@@ -27,7 +27,12 @@ Total alive IP addresses: 2
 Total dead IP addresses: 254
 
 Finished in: 00:06:44
-Started on: 03/01/2022 14:52:55\
+Started on: 03/01/2022 14:52:55
+
+\
+&nbsp;
+\
+&nbsp;
 
 
 **./ipsaroundme -r 123.123.123.123 123.123.124.0**
@@ -42,7 +47,12 @@ Total alive IP addresses: 2
 Total dead IP addresses: 254
 
 Finished in: 00:06:44
-Started on: 03/01/2022 14:52:55\
+Started on: 03/01/2022 14:52:55
+
+\
+&nbsp;
+\
+&nbsp;
 
 **./ipsaroundme -c 123.123.123.123/30**
 
@@ -56,7 +66,12 @@ Total alive IP addresses: 2
 Total dead IP addresses: 2
 
 Finished in: 00:06:44
-Started on: 03/01/2022 14:52:55\
+Started on: 03/01/2022 14:52:55
+
+\
+&nbsp;
+\
+&nbsp;
 
 
 **Note:** This is initial commit. Needs code refractory and hops time optimization. Any contributions are welcome ;)
