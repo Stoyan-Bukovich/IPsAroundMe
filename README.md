@@ -42,6 +42,8 @@ Total alive IP addresses: 2
 Total dead IP addresses: 254
 \
 &nbsp;
+\
+&nbsp;
 Finished in: 00:06:44
 \
 &nbsp;
@@ -76,6 +78,8 @@ Total alive IP addresses: 2
 \
 &nbsp;
 Total dead IP addresses: 254
+\
+&nbsp;
 \
 &nbsp;
 Finished in: 00:06:44
