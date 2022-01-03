@@ -6,6 +6,8 @@ How to run:
 From your operating system terminal / cmd / powershell run ./ipsaroundme for full options list.
 \
 &nbsp;
+\
+&nbsp;
 -s switch to scan all CIDR  /24 IP addresses around your public IP address.
 \
 &nbsp;
