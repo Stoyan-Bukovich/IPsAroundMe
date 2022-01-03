@@ -26,10 +26,14 @@ Remote IP, Local IP, Distance (km), Hops
 123.123.123.5,123.123.123.6,1648.859,4
 \
 &nbsp;
+\
+&nbsp;
 Your public IP address is: 123.123.123.6
 \
 &nbsp;
 Your default gateway is: 192.168.1.1
+\
+&nbsp;
 \
 &nbsp;
 Total alive IP addresses: 2
@@ -58,10 +62,14 @@ Started on: 03/01/2022 14:52:55
 123.123.123.5,123.123.123.6,1648.859,4
 \
 &nbsp;
+\
+&nbsp;
 Your public IP address is: 123.123.123.6
 \
 &nbsp;
 Your default gateway is: 192.168.1.1
+\
+&nbsp;
 \
 &nbsp;
 Total alive IP addresses: 2
@@ -89,16 +97,22 @@ Started on: 03/01/2022 14:52:55
 123.123.123.5,123.123.123.6,1648.859,4
 \
 &nbsp;
+\
+&nbsp;
 Your public IP address is: 123.123.123.6
 \
 &nbsp;
 Your default gateway is: 192.168.1.1
 \
 &nbsp;
+\
+&nbsp;
 Total alive IP addresses: 2
 \
 &nbsp;
 Total dead IP addresses: 2
+\
+&nbsp;
 \
 &nbsp;
 Finished in: 00:06:44
