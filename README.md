@@ -14,9 +14,6 @@ Samle outputs:
 
 **./ipsaroudme -s**
 
-\
-&nbsp;
-
 Remote IP, Local IP, Distance (km), Hops
 ----------------------------------------
 \
