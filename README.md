@@ -13,6 +13,7 @@ From your operating system terminal / cmd / powershell run ./ipsaroundme for ful
 Samle outputs:
 
 **./ipsaroudme -s**
+
 \
 &nbsp;
 
