@@ -15,7 +15,7 @@ Samle outputs:
 **./ipsaroudme -s**
 
 Remote IP, Local IP, Distance (km), Hops
-----------------------------------------
+
 \
 &nbsp;
 123.123.123.4,123.123.123.6,32.859,2
@@ -54,6 +54,9 @@ Started on: 03/01/2022 14:52:55
 
 
 **./ipsaroundme -r 123.123.123.123 123.123.124.0**
+
+Remote IP, Local IP, Distance (km), Hops
+
 \
 &nbsp;
 123.123.123.4,123.123.123.6,32.859,2
@@ -91,6 +94,9 @@ Started on: 03/01/2022 14:52:55
 &nbsp;
 
 **./ipsaroundme -c 123.123.123.123/30**
+
+Remote IP, Local IP, Distance (km), Hops
+
 \
 &nbsp;
 123.123.123.4,123.123.123.6,5.859,1
